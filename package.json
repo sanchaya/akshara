@@ -1,5 +1,5 @@
 {
-  "name": "tamil-char-count",
+  "name": "tamil-char-counts",
   "version": "1.0.0",
   "description": "Tamil character count utility for analyzing vowels and consonants in Tamil text.",
   "source": "src/index.ts",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/er-arunkumarselvam/tamil-char-count.git"
+    "url": "git+https://github.com/sanchaya/akshara.git"
   },
   "devDependencies": {
     "@parcel/packager-ts": "^2.10.2",

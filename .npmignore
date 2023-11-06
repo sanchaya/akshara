@@ -1,0 +1,9 @@
+# Include specific files and folders
+!dist
+!package.json
+!README.md
+!LICENSE
+
+# Exclude all other files and folders
+*
+!.npmignore

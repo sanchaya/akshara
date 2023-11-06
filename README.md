@@ -7,7 +7,7 @@ Tamil character count utility for analyzing vowels and consonants in Tamil text.
 
 ## Installation
 
-    npm i tamil-char-count
+    npm i tamil-char-counts
 
 ## Usage
 

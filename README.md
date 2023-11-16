@@ -7,12 +7,12 @@ Tamil character count utility for analyzing vowels and consonants in Tamil text.
 
 ## Installation
 
-    npm i tamil-char-counts
+    npm i tamil-characters-count
 
 ## Usage
 
 ```js
-import Aksharas from "tamil-char-count";
+import Aksharas from "tamil-characters-count";
 
 // OR for CommonJS:
 // const Aksharas = require("tamil-char-count").default;

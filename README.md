@@ -1,6 +1,5 @@
 # Tamil Character Count
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/MIT_License-dark)
 
 
 Tamil character count utility for analyzing vowels and consonants in Tamil text.
@@ -26,9 +25,6 @@ const aksharas = results.aksharas.map(akshara => akshara.value);
 console.log(aksharas); // "வா", "ழ்", "க", "த", "மி", "ழ்"
 ```
 
-## License
-
-MIT © [Arunkumar Selvam](https://github.com/er-arunkumarselvam)
 
 ## Acknowledgements
 
